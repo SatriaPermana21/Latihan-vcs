@@ -40,7 +40,7 @@ Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Expl
 klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash commad
 Buat direktory project praktikum pertama dengan nama latihan1 $ mkdir latihan1 $ cd latihan1
 Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
-direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
+direktory aktif menjadi: **C:/Users/ACER_2/Documents/Latihan1/latihan1/.git/
 
 
 ![22](https://user-images.githubusercontent.com/73052087/96370881-93098b00-1189-11eb-809a-aecf7413afbc.png)
@@ -57,7 +57,7 @@ Menambahkan File baru pada repository
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. $ git add README.md
 File README.md berhasil ditambahkan.
 Commit (Menyimpan perubahan ke database)
-Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit” $ git commit -m “File pertama saya”
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit” $ git commit -m “File Pertama Isat”
 
 Perubahan berhasil disimpan.
 
@@ -89,3 +89,6 @@ Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project y
 Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
 untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/
+
+
+# AUTHOR MUHAMMAD SAFRI SATRIA PERMANA
