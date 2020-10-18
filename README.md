@@ -10,7 +10,7 @@ Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64b
 Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka CMD atau PowerShell, kemudian ketik perintah
 git --version
 
-Untitled1
+![11](https://user-images.githubusercontent.com/73052087/96370863-84bb6f00-1189-11eb-98e9-0ffe8ba83ab2.png
 
 Menambahkan Global Config
 Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
@@ -39,7 +39,7 @@ klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga munc
 Buat direktory project praktikum pertama dengan nama latihan1 $ mkdir latihan1 $ cd latihan1
 Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
-Untitled
+![22](https://user-images.githubusercontent.com/73052087/96370881-93098b00-1189-11eb-809a-aecf7413afbc.png)
 
 Membuat Reposiory Local
 Jalankan perintah git init, untuk membuat repository local. $ git init
