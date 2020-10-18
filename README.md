@@ -9,6 +9,8 @@ Download Git, buka website resminya Git (git-scm.com).
 Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka CMD atau PowerShell, kemudian ketik perintah
 git --version
+
+
 ![11](https://user-images.githubusercontent.com/73052087/96370863-84bb6f00-1189-11eb-98e9-0ffe8ba83ab2.png)
 
 
@@ -39,6 +41,8 @@ klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga munc
 Buat direktory project praktikum pertama dengan nama latihan1 $ mkdir latihan1 $ cd latihan1
 Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
+
+
 ![22](https://user-images.githubusercontent.com/73052087/96370881-93098b00-1189-11eb-809a-aecf7413afbc.png)
 
 Membuat Reposiory Local
